@@ -1,1 +1,2 @@
 Feature 7: support iPad resolutions
+updated code - 3rd April
